@@ -1,0 +1,543 @@
+
+         Element          Actual         Nominal         Deviat.         Up Tol.        Low Tol.       Pass/Fail
+                                                        (TP Dev)        (TP Tol)                                
+Circle: TopBigCircle[1](ID:6, From 360 Pts.) 
+     Coord. X =         0.000776                                                                                
+     Coord. Y =         0.000264                                                                                
+       Radius =         0.124095                                                                                
+
+Circle: TopBigCircle[2](ID:7, From 361 Pts.) 
+     Coord. X =        -3.000071                                                                                
+     Coord. Y =         3.000939                                                                                
+       Radius =         0.124092                                                                                
+
+Circle: TopBigCircle[3](ID:8, From 361 Pts.) 
+     Coord. X =         1.499514                                                                                
+     Coord. Y =         1.500691                                                                                
+       Radius =         0.124067                                                                                
+
+Circle: TopBigCircle[4](ID:9, From 360 Pts.) 
+     Coord. X =         2.999504                                                                                
+     Coord. Y =        -1.499425                                                                                
+       Radius =         0.124057                                                                                
+
+Circle: TopBigCircle[5](ID:10, From 361 Pts.) 
+     Coord. X =        -1.499775                                                                                
+     Coord. Y =        -1.498931                                                                                
+       Radius =         0.124101                                                                                
+
+Circle: TopSmallCircle[1,1](ID:11, From 357 Pts.) 
+     Coord. X =        -1.500055                                                                                
+     Coord. Y =         1.500150                                                                                
+       Radius =         0.059349                                                                                
+
+Circle: TopSmallCircle[1,2](ID:12, From 360 Pts.) 
+     Coord. X =        -1.500018                                                                                
+     Coord. Y =         1.000100                                                                                
+       Radius =         0.059375                                                                                
+
+Circle: TopSmallCircle[1,3](ID:13, From 360 Pts.) 
+     Coord. X =        -1.500029                                                                                
+     Coord. Y =         0.500188                                                                                
+       Radius =         0.059377                                                                                
+
+Circle: TopSmallCircle[1,4](ID:14, From 360 Pts.) 
+     Coord. X =        -1.500058                                                                                
+     Coord. Y =         0.000259                                                                                
+       Radius =         0.059386                                                                                
+
+Circle: TopSmallCircle[1,5](ID:15, From 360 Pts.) 
+     Coord. X =        -1.500063                                                                                
+     Coord. Y =        -0.499869                                                                                
+       Radius =         0.059385                                                                                
+
+Circle: TopSmallCircle[1,6](ID:16, From 358 Pts.) 
+     Coord. X =        -1.500016                                                                                
+     Coord. Y =        -0.999849                                                                                
+       Radius =         0.059382                                                                                
+
+Circle: TopSmallCircle[1,7](ID:17, From 360 Pts.) 
+     Coord. X =        -1.499953                                                                                
+     Coord. Y =        -1.499760                                                                                
+       Radius =         0.124454                                                                                
+
+Circle: TopSmallCircle[2,1](ID:18, From 360 Pts.) 
+     Coord. X =        -1.000070                                                                                
+     Coord. Y =         1.500193                                                                                
+       Radius =         0.059399                                                                                
+
+Circle: TopSmallCircle[2,2](ID:19, From 360 Pts.) 
+     Coord. X =        -0.999905                                                                                
+     Coord. Y =         1.000246                                                                                
+       Radius =         0.059408                                                                                
+
+Circle: TopSmallCircle[2,3](ID:20, From 359 Pts.) 
+     Coord. X =        -0.999943                                                                                
+     Coord. Y =         0.500062                                                                                
+       Radius =         0.059407                                                                                
+
+Circle: TopSmallCircle[2,4](ID:21, From 360 Pts.) 
+     Coord. X =        -0.999937                                                                                
+     Coord. Y =         0.000234                                                                                
+       Radius =         0.059422                                                                                
+
+Circle: TopSmallCircle[2,5](ID:22, From 360 Pts.) 
+     Coord. X =        -0.999881                                                                                
+     Coord. Y =        -0.499816                                                                                
+       Radius =         0.059434                                                                                
+
+Circle: TopSmallCircle[2,6](ID:23, From 356 Pts.) 
+     Coord. X =        -0.999823                                                                                
+     Coord. Y =        -0.999684                                                                                
+       Radius =         0.059418                                                                                
+
+Circle: TopSmallCircle[2,7](ID:24, From 360 Pts.) 
+     Coord. X =        -0.999878                                                                                
+     Coord. Y =        -1.499633                                                                                
+       Radius =         0.059434                                                                                
+
+Circle: TopSmallCircle[3,1](ID:25, From 360 Pts.) 
+     Coord. X =        -0.500048                                                                                
+     Coord. Y =         1.500102                                                                                
+       Radius =         0.059484                                                                                
+
+Circle: TopSmallCircle[3,2](ID:26, From 303 Pts.) 
+     Coord. X =        -0.499959                                                                                
+     Coord. Y =         1.000254                                                                                
+       Radius =         0.059509                                                                                
+
+Circle: TopSmallCircle[3,3](ID:27, From 357 Pts.) 
+     Coord. X =        -0.500009                                                                                
+     Coord. Y =         0.500059                                                                                
+       Radius =         0.059494                                                                                
+
+Circle: TopSmallCircle[3,4](ID:28, From 360 Pts.) 
+     Coord. X =        -0.500012                                                                                
+     Coord. Y =         0.000145                                                                                
+       Radius =         0.059509                                                                                
+
+Circle: TopSmallCircle[3,5](ID:29, From 360 Pts.) 
+     Coord. X =        -0.499966                                                                                
+     Coord. Y =        -0.499869                                                                                
+       Radius =         0.059507                                                                                
+
+Circle: TopSmallCircle[3,6](ID:30, From 358 Pts.) 
+     Coord. X =        -0.500031                                                                                
+     Coord. Y =        -0.999840                                                                                
+       Radius =         0.059515                                                                                
+
+Circle: TopSmallCircle[3,7](ID:31, From 360 Pts.) 
+     Coord. X =        -0.499880                                                                                
+     Coord. Y =        -1.499774                                                                                
+       Radius =         0.059511                                                                                
+
+Circle: TopSmallCircle[4,1](ID:32, From 357 Pts.) 
+     Coord. X =        -0.000072                                                                                
+     Coord. Y =         1.500289                                                                                
+       Radius =         0.059362                                                                                
+
+Circle: TopSmallCircle[4,2](ID:33, From 360 Pts.) 
+     Coord. X =        -0.000005                                                                                
+     Coord. Y =         1.000055                                                                                
+       Radius =         0.059369                                                                                
+
+Circle: TopSmallCircle[4,3](ID:34, From 360 Pts.) 
+     Coord. X =        -0.000073                                                                                
+     Coord. Y =         0.500054                                                                                
+       Radius =         0.059347                                                                                
+
+Circle: TopSmallCircle[4,4](ID:35, From 359 Pts.) 
+     Coord. X =         0.000130                                                                                
+     Coord. Y =         0.000161                                                                                
+       Radius =         0.124444                                                                                
+
+Circle: TopSmallCircle[4,5](ID:36, From 360 Pts.) 
+     Coord. X =        -0.000117                                                                                
+     Coord. Y =        -0.499883                                                                                
+       Radius =         0.059383                                                                                
+
+Circle: TopSmallCircle[4,6](ID:37, From 360 Pts.) 
+     Coord. X =        -0.000016                                                                                
+     Coord. Y =        -0.999844                                                                                
+       Radius =         0.059387                                                                                
+
+Circle: TopSmallCircle[4,7](ID:38, From 359 Pts.) 
+     Coord. X =        -0.000085                                                                                
+     Coord. Y =        -1.499715                                                                                
+       Radius =         0.059378                                                                                
+
+Circle: TopSmallCircle[5,1](ID:39, From 360 Pts.) 
+     Coord. X =         0.499979                                                                                
+     Coord. Y =         1.500014                                                                                
+       Radius =         0.059398                                                                                
+
+Circle: TopSmallCircle[5,2](ID:40, From 360 Pts.) 
+     Coord. X =         0.499960                                                                                
+     Coord. Y =         1.000135                                                                                
+       Radius =         0.059404                                                                                
+
+Circle: TopSmallCircle[5,3](ID:41, From 359 Pts.) 
+     Coord. X =         0.499993                                                                                
+     Coord. Y =         0.500243                                                                                
+       Radius =         0.059382                                                                                
+
+Circle: TopSmallCircle[5,4](ID:42, From 358 Pts.) 
+     Coord. X =         0.500029                                                                                
+     Coord. Y =         0.000096                                                                                
+       Radius =         0.059412                                                                                
+
+Circle: TopSmallCircle[5,5](ID:43, From 360 Pts.) 
+     Coord. X =         0.500043                                                                                
+     Coord. Y =        -0.499769                                                                                
+       Radius =         0.059415                                                                                
+
+Circle: TopSmallCircle[5,6](ID:44, From 358 Pts.) 
+     Coord. X =         0.500044                                                                                
+     Coord. Y =        -0.999868                                                                                
+       Radius =         0.059431                                                                                
+
+Circle: TopSmallCircle[5,7](ID:45, From 360 Pts.) 
+     Coord. X =         0.499977                                                                                
+     Coord. Y =        -1.499942                                                                                
+       Radius =         0.059422                                                                                
+
+Circle: TopSmallCircle[6,1](ID:46, From 359 Pts.) 
+     Coord. X =         0.999792                                                                                
+     Coord. Y =         1.500006                                                                                
+       Radius =         0.059486                                                                                
+
+Circle: TopSmallCircle[6,2](ID:47, From 360 Pts.) 
+     Coord. X =         0.999876                                                                                
+     Coord. Y =         1.000024                                                                                
+       Radius =         0.059492                                                                                
+
+Circle: TopSmallCircle[6,3](ID:48, From 359 Pts.) 
+     Coord. X =         0.999842                                                                                
+     Coord. Y =         0.500032                                                                                
+       Radius =         0.059491                                                                                
+
+Circle: TopSmallCircle[6,4](ID:49, From 360 Pts.) 
+     Coord. X =         0.999899                                                                                
+     Coord. Y =         0.000147                                                                                
+       Radius =         0.059498                                                                                
+
+Circle: TopSmallCircle[6,5](ID:50, From 360 Pts.) 
+     Coord. X =         0.999971                                                                                
+     Coord. Y =        -0.499806                                                                                
+       Radius =         0.059511                                                                                
+
+Circle: TopSmallCircle[6,6](ID:51, From 360 Pts.) 
+     Coord. X =         0.999937                                                                                
+     Coord. Y =        -0.999868                                                                                
+       Radius =         0.059521                                                                                
+
+Circle: TopSmallCircle[6,7](ID:52, From 360 Pts.) 
+     Coord. X =         0.999946                                                                                
+     Coord. Y =        -1.499858                                                                                
+       Radius =         0.059519                                                                                
+
+Circle: TopSmallCircle[7,1](ID:53, From 359 Pts.) 
+     Coord. X =         1.499901                                                                                
+     Coord. Y =         1.500010                                                                                
+       Radius =         0.124407                                                                                
+
+Circle: TopSmallCircle[7,2](ID:54, From 360 Pts.) 
+     Coord. X =         1.499858                                                                                
+     Coord. Y =         0.999942                                                                                
+       Radius =         0.059355                                                                                
+
+Circle: TopSmallCircle[7,3](ID:55, From 357 Pts.) 
+     Coord. X =         1.499829                                                                                
+     Coord. Y =         0.500064                                                                                
+       Radius =         0.059361                                                                                
+
+Circle: TopSmallCircle[7,4](ID:56, From 359 Pts.) 
+     Coord. X =         1.499742                                                                                
+     Coord. Y =         0.000037                                                                                
+       Radius =         0.059357                                                                                
+
+Circle: TopSmallCircle[7,5](ID:57, From 355 Pts.) 
+     Coord. X =         1.499792                                                                                
+     Coord. Y =        -0.499947                                                                                
+       Radius =         0.059372                                                                                
+
+Circle: TopSmallCircle[7,6](ID:58, From 360 Pts.) 
+     Coord. X =         1.499915                                                                                
+     Coord. Y =        -1.000066                                                                                
+       Radius =         0.059382                                                                                
+
+Circle: TopSmallCircle[7,7](ID:59, From 360 Pts.) 
+     Coord. X =         1.499895                                                                                
+     Coord. Y =        -1.499973                                                                                
+       Radius =         0.059378                                                                                
+
+Circle: BotBigCircle[1](ID:68, From 344 Pts.) 
+     Coord. X =         0.202094                                                                                
+     Coord. Y =         0.349892                                                                                
+       Radius =         0.124713                                                                                
+
+Circle: BotBigCircle[2](ID:69, From 359 Pts.) 
+     Coord. X =        -2.820296                                                                                
+     Coord. Y =         3.327247                                                                                
+       Radius =         0.124684                                                                                
+
+Circle: BotBigCircle[3](ID:70, From 346 Pts.) 
+     Coord. X =         1.690671                                                                                
+     Coord. Y =         1.861083                                                                                
+       Radius =         0.124679                                                                                
+
+Circle: BotBigCircle[4](ID:71, From 324 Pts.) 
+     Coord. X =         3.213043                                                                                
+     Coord. Y =        -1.127615                                                                                
+       Radius =         0.124713                                                                                
+
+Circle: BotBigCircle[5](ID:72, From 315 Pts.) 
+     Coord. X =        -1.286479                                                                                
+     Coord. Y =        -1.160864                                                                                
+       Radius =         0.124747                                                                                
+
+Circle: BotSmallCircle[1,1](ID:73, From 354 Pts.) 
+     Coord. X =        -1.308970                                                                                
+     Coord. Y =         1.838599                                                                                
+       Radius =         0.059601                                                                                
+
+Circle: BotSmallCircle[1,2](ID:74, From 354 Pts.) 
+     Coord. X =        -1.305166                                                                                
+     Coord. Y =         1.338538                                                                                
+       Radius =         0.059598                                                                                
+
+Circle: BotSmallCircle[1,3](ID:75, From 355 Pts.) 
+     Coord. X =        -1.301393                                                                                
+     Coord. Y =         0.838690                                                                                
+       Radius =         0.059595                                                                                
+
+Circle: BotSmallCircle[1,4](ID:76, From 356 Pts.) 
+     Coord. X =        -1.297666                                                                                
+     Coord. Y =         0.338698                                                                                
+       Radius =         0.059622                                                                                
+
+Circle: BotSmallCircle[1,5](ID:77, From 359 Pts.) 
+     Coord. X =        -1.293966                                                                                
+     Coord. Y =        -0.161049                                                                                
+       Radius =         0.059599                                                                                
+
+Circle: BotSmallCircle[1,6](ID:78, From 359 Pts.) 
+     Coord. X =        -1.290117                                                                                
+     Coord. Y =        -0.661113                                                                                
+       Radius =         0.059603                                                                                
+
+Circle: BotSmallCircle[1,7](ID:79, From 356 Pts.) 
+     Coord. X =        -1.286543                                                                                
+     Coord. Y =        -1.161051                                                                                
+       Radius =         0.124694                                                                                
+
+Circle: BotSmallCircle[2,1](ID:80, From 359 Pts.) 
+     Coord. X =        -0.808904                                                                                
+     Coord. Y =         1.842447                                                                                
+       Radius =         0.059512                                                                                
+
+Circle: BotSmallCircle[2,2](ID:81, From 358 Pts.) 
+     Coord. X =        -0.805194                                                                                
+     Coord. Y =         1.342545                                                                                
+       Radius =         0.059517                                                                                
+
+Circle: BotSmallCircle[2,3](ID:82, From 358 Pts.) 
+     Coord. X =        -0.801471                                                                                
+     Coord. Y =         0.842262                                                                                
+       Radius =         0.059509                                                                                
+
+Circle: BotSmallCircle[2,4](ID:83, From 360 Pts.) 
+     Coord. X =        -0.797726                                                                                
+     Coord. Y =         0.342360                                                                                
+       Radius =         0.059511                                                                                
+
+Circle: BotSmallCircle[2,5](ID:84, From 360 Pts.) 
+     Coord. X =        -0.793872                                                                                
+     Coord. Y =        -0.157464                                                                                
+       Radius =         0.059501                                                                                
+
+Circle: BotSmallCircle[2,6](ID:85, From 358 Pts.) 
+     Coord. X =        -0.790148                                                                                
+     Coord. Y =        -0.657378                                                                                
+       Radius =         0.059512                                                                                
+
+Circle: BotSmallCircle[2,7](ID:86, From 359 Pts.) 
+     Coord. X =        -0.786360                                                                                
+     Coord. Y =        -1.157473                                                                                
+       Radius =         0.059509                                                                                
+
+Circle: BotSmallCircle[3,1](ID:87, From 359 Pts.) 
+     Coord. X =        -0.308838                                                                                
+     Coord. Y =         1.846089                                                                                
+       Radius =         0.059507                                                                                
+
+Circle: BotSmallCircle[3,2](ID:88, From 357 Pts.) 
+     Coord. X =        -0.305050                                                                                
+     Coord. Y =         1.346134                                                                                
+       Radius =         0.059507                                                                                
+
+Circle: BotSmallCircle[3,3](ID:89, From 357 Pts.) 
+     Coord. X =        -0.301238                                                                                
+     Coord. Y =         0.846139                                                                                
+       Radius =         0.059502                                                                                
+
+Circle: BotSmallCircle[3,4](ID:90, From 357 Pts.) 
+     Coord. X =        -0.297658                                                                                
+     Coord. Y =         0.346232                                                                                
+       Radius =         0.059503                                                                                
+
+Circle: BotSmallCircle[3,5](ID:91, From 350 Pts.) 
+     Coord. X =        -0.293945                                                                                
+     Coord. Y =        -0.153686                                                                                
+       Radius =         0.059524                                                                                
+
+Circle: BotSmallCircle[3,6](ID:92, From 357 Pts.) 
+     Coord. X =        -0.290185                                                                                
+     Coord. Y =        -0.653677                                                                                
+       Radius =         0.059500                                                                                
+
+Circle: BotSmallCircle[3,7](ID:93, From 359 Pts.) 
+     Coord. X =        -0.286312                                                                                
+     Coord. Y =        -1.153592                                                                                
+       Radius =         0.059492                                                                                
+
+Circle: BotSmallCircle[4,1](ID:94, From 358 Pts.) 
+     Coord. X =         0.191017                                                                                
+     Coord. Y =         1.849856                                                                                
+       Radius =         0.059596                                                                                
+
+Circle: BotSmallCircle[4,2](ID:95, From 354 Pts.) 
+     Coord. X =         0.194891                                                                                
+     Coord. Y =         1.349900                                                                                
+       Radius =         0.059592                                                                                
+
+Circle: BotSmallCircle[4,3](ID:96, From 356 Pts.) 
+     Coord. X =         0.198531                                                                                
+     Coord. Y =         0.849937                                                                                
+       Radius =         0.059591                                                                                
+
+Circle: BotSmallCircle[4,4](ID:97, From 359 Pts.) 
+     Coord. X =         0.202182                                                                                
+     Coord. Y =         0.350092                                                                                
+       Radius =         0.124689                                                                                
+
+Circle: BotSmallCircle[4,5](ID:98, From 358 Pts.) 
+     Coord. X =         0.206092                                                                                
+     Coord. Y =        -0.149933                                                                                
+       Radius =         0.059616                                                                                
+
+Circle: BotSmallCircle[4,6](ID:99, From 359 Pts.) 
+     Coord. X =         0.209650                                                                                
+     Coord. Y =        -0.649947                                                                                
+       Radius =         0.059581                                                                                
+
+Circle: BotSmallCircle[4,7](ID:100, From 356 Pts.) 
+     Coord. X =         0.213457                                                                                
+     Coord. Y =        -1.150064                                                                                
+       Radius =         0.059577                                                                                
+
+Circle: BotSmallCircle[5,1](ID:101, From 359 Pts.) 
+     Coord. X =         0.690881                                                                                
+     Coord. Y =         1.853673                                                                                
+       Radius =         0.059500                                                                                
+
+Circle: BotSmallCircle[5,2](ID:102, From 359 Pts.) 
+     Coord. X =         0.694638                                                                                
+     Coord. Y =         1.353566                                                                                
+       Radius =         0.059511                                                                                
+
+Circle: BotSmallCircle[5,3](ID:103, From 358 Pts.) 
+     Coord. X =         0.698358                                                                                
+     Coord. Y =         0.853589                                                                                
+       Radius =         0.059497                                                                                
+
+Circle: BotSmallCircle[5,4](ID:104, From 360 Pts.) 
+     Coord. X =         0.702117                                                                                
+     Coord. Y =         0.353638                                                                                
+       Radius =         0.059500                                                                                
+
+Circle: BotSmallCircle[5,5](ID:105, From 359 Pts.) 
+     Coord. X =         0.705905                                                                                
+     Coord. Y =        -0.146312                                                                                
+       Radius =         0.059492                                                                                
+
+Circle: BotSmallCircle[5,6](ID:106, From 360 Pts.) 
+     Coord. X =         0.709613                                                                                
+     Coord. Y =        -0.646187                                                                                
+       Radius =         0.059498                                                                                
+
+Circle: BotSmallCircle[5,7](ID:107, From 328 Pts.) 
+     Coord. X =         0.713544                                                                                
+     Coord. Y =        -1.146386                                                                                
+       Radius =         0.059475                                                                                
+
+Circle: BotSmallCircle[6,1](ID:108, From 358 Pts.) 
+     Coord. X =         1.191001                                                                                
+     Coord. Y =         1.857454                                                                                
+       Radius =         0.059490                                                                                
+
+Circle: BotSmallCircle[6,2](ID:109, From 338 Pts.) 
+     Coord. X =         1.194761                                                                                
+     Coord. Y =         1.357339                                                                                
+       Radius =         0.059510                                                                                
+
+Circle: BotSmallCircle[6,3](ID:110, From 353 Pts.) 
+     Coord. X =         1.198506                                                                                
+     Coord. Y =         0.857443                                                                                
+       Radius =         0.059476                                                                                
+
+Circle: BotSmallCircle[6,4](ID:111, From 359 Pts.) 
+     Coord. X =         1.202188                                                                                
+     Coord. Y =         0.357440                                                                                
+       Radius =         0.059504                                                                                
+
+Circle: BotSmallCircle[6,5](ID:112, From 357 Pts.) 
+     Coord. X =         1.205967                                                                                
+     Coord. Y =        -0.142428                                                                                
+       Radius =         0.059476                                                                                
+
+Circle: BotSmallCircle[6,6](ID:113, From 358 Pts.) 
+     Coord. X =         1.209687                                                                                
+     Coord. Y =        -0.642375                                                                                
+       Radius =         0.059485                                                                                
+
+Circle: BotSmallCircle[6,7](ID:114, From 359 Pts.) 
+     Coord. X =         1.213422                                                                                
+     Coord. Y =        -1.142443                                                                                
+       Radius =         0.059469                                                                                
+
+Circle: BotSmallCircle[7,1](ID:115, From 359 Pts.) 
+     Coord. X =         1.690730                                                                                
+     Coord. Y =         1.861002                                                                                
+       Radius =         0.124666                                                                                
+
+Circle: BotSmallCircle[7,2](ID:116, From 358 Pts.) 
+     Coord. X =         1.694671                                                                                
+     Coord. Y =         1.361088                                                                                
+       Radius =         0.059626                                                                                
+
+Circle: BotSmallCircle[7,3](ID:117, From 358 Pts.) 
+     Coord. X =         1.698401                                                                                
+     Coord. Y =         0.860942                                                                                
+       Radius =         0.059569                                                                                
+
+Circle: BotSmallCircle[7,4](ID:118, From 359 Pts.) 
+     Coord. X =         1.702000                                                                                
+     Coord. Y =         0.361201                                                                                
+       Radius =         0.059572                                                                                
+
+Circle: BotSmallCircle[7,5](ID:119, From 356 Pts.) 
+     Coord. X =         1.705849                                                                                
+     Coord. Y =        -0.138767                                                                                
+       Radius =         0.059565                                                                                
+
+Circle: BotSmallCircle[7,6](ID:120, From 359 Pts.) 
+     Coord. X =         1.709490                                                                                
+     Coord. Y =        -0.638650                                                                                
+       Radius =         0.059581                                                                                
+
+Circle: BotSmallCircle[7,7](ID:121, From 359 Pts.) 
+     Coord. X =         1.713261                                                                                
+     Coord. Y =        -1.138857                                                                                
+       Radius =         0.059563                                                                                
+

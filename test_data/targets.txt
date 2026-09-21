@@ -1,0 +1,7 @@
+BigDieLeft
+BigDieRight
+SmallDie1Left
+SmallDie1Right
+SmallDie2Left
+SmallDie2Right
+SmallDieLeft
