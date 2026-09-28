@@ -1,9 +1,10 @@
 import subprocess
 import shutil
 from pathlib import Path
+import sys
 
 def main():
-    subprocess.run(["pyinstaller", "--onefile", "mitutoyo_parser.py"], check=True)
+    subprocess.run([sys.executable, "-m", "PyInstaller", "--onefile", "-w", "mitutoyo_parser.py"], check=True)
 
     # optional cleanup
     for path in ["build", "__pycache__"]:

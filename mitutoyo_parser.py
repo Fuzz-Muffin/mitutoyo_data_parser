@@ -102,7 +102,7 @@ def parse_files(targets_fpath, data_fpath, log_func=print):
                     idx=2
                 elif 'Radius' in next_line:
                     idx=3
-                elif: 'Diam' in next_line:
+                elif 'Diam' in next_line:
                     idx=4
 
                 if idx > -1:
