@@ -5,7 +5,8 @@ import pandas as pd
 
 
 def gendic(label=None, row=-1, col=-1, x=0.0, y=0.0, z=0.0,
-           x_nom=0.0, y_nom=0.0, z_nom=0.0, dx=0.0, dy=0.0, dz=0.0):
+           x_nom=0.0, y_nom=0.0, z_nom=0.0, dx=0.0, dy=0.0, dz=0.0,
+           rad=0.0, dia=0.0, drad=0.0, ddia=0.0, rad_nom=0.0, dia_nom=0.0):
     return {
         'label': label,
         'row': row,
@@ -19,6 +20,12 @@ def gendic(label=None, row=-1, col=-1, x=0.0, y=0.0, z=0.0,
         'dx': dx,
         'dy': dy,
         'dz': dz,
+        'radius': rad,
+        'diameter': dia,
+        'radius_nom': rad_nom,
+        'diameter_nom': dia_nom,
+        'd_radius' : drad,
+        'd_diameter': ddia,
     }
 
 
@@ -62,7 +69,10 @@ def parse_files(targets_fpath, data_fpath, log_func=print):
             deviation = [0.0, 0.0, 0.0]
             radius_actual= 0.0
             radius_nominal= 0.0
-            radius_deviation = 0.0
+            radius_deviation = 0.0            
+            diam_actual= 0.0
+            diam_nominal= 0.0
+            diam_deviation = 0.0
 
             try:
                 tmp = line.split('[', 1)[1].split(']', 1)[0]
@@ -84,21 +94,40 @@ def parse_files(targets_fpath, data_fpath, log_func=print):
                 data_in_list = next_line.split('=')[1].strip().split()
                 # find out which coord we are on
                 idx = -1
-                if 'X' in next_line:
+                if 'Coord. X' in next_line:
                     idx=0
-                elif 'Y' in next_line:
+                elif 'Coord. Y' in next_line:
                     idx=1
-                elif 'Z' in next_line:
+                elif 'Coord. Z' in next_line:
                     idx=2
+                elif 'Radius' in next_line:
+                    idx=3
+                elif: 'Diam' in next_line:
+                    idx=4
 
                 if idx > -1:
-                    # actual position should always be there if the coordinate is present
-                    actual_pos[idx]  = float(data_in_list[0])
-                    try:
-                        nominal_pos[idx] = float(data_in_list[1])
-                        deviation[idx] = float(data_in_list[2])
-                    except Exception:
-                        pass
+                    if idx <=2:
+                        # actual position should always be there if the coordinate is present
+                        actual_pos[idx]  = float(data_in_list[0])
+                        try:
+                            nominal_pos[idx] = float(data_in_list[1])
+                            deviation[idx] = float(data_in_list[2])
+                        except Exception:
+                            pass
+                    elif idx == 3:
+                        radius_actual  = float(data_in_list[0])
+                        try:
+                            radius_nominal = float(data_in_list[1])
+                            radius_deviation = float(data_in_list[2])
+                        except Exception:
+                            pass
+                    elif idx == 4:
+                        diam  = float(data_in_list[0])
+                        try:
+                            diam_nominal = float(data_in_list[1])
+                            diam_deviation = float(data_in_list[2])
+                        except Exception:
+                            pass
 
             extracted_data.append(gendic(label=lab,
                                          row=row,
@@ -112,6 +141,12 @@ def parse_files(targets_fpath, data_fpath, log_func=print):
                                          dx= deviation[0],
                                          dy= deviation[1],
                                          dz= deviation[2],
+                                         rad= radius_actual,
+                                         rad_nom= radius_nominal,
+                                         drad= radius_deviation,
+                                         dia= diam_actual,
+                                         dia_nom= diam_nominal,
+                                         ddiam= diam_deviation,
                                          ))
 
     df = pd.DataFrame(extracted_data)
